@@ -1,2 +1,2 @@
-# Hotel-Cancellations-Prediction-Analaysis
+# Hotel-Cancellations-Prediction-Analysis
 Final Project DS 17
